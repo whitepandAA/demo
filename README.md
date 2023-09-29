@@ -1,4 +1,4 @@
 # demo
 getting used to git.
 <br>
-author -shreyansh pandey
+author -shreyansh pandey(wick)
